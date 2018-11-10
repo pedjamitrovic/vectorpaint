@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="poop_paint:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/poop_paint_jar</output-path>
+    <root id="archive" name="poop_paint.jar">
+      <element id="module-output" name="poop_paint" />
+    </root>
+  </artifact>
+</component>
